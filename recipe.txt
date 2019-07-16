@@ -4,3 +4,4 @@ broth
 carrots
 celery
 pasta
+lots of extra salt
