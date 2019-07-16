@@ -1,2 +1,6 @@
 water
 chicken
+broth
+carrots
+celery
+pasta
