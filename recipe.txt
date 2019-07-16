@@ -4,3 +4,4 @@ broth
 carrots
 celery
 pasta
+CHEESE lots and lots of CHEESE
